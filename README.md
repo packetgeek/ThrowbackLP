@@ -1,3 +1,5 @@
+I've forked this project to experiment with the code (and probably do horrible things to it).  Recommend using the original code.  Original README.md follow...
+
 0.	Prepare the environment
   1.	apt-get install apache2 mysql-server php5 phpmyadmin curl libcurl3 php5-curl build-essential php-pear
 1.	Configure Apache to allow SSL connections.
